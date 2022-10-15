@@ -2,7 +2,9 @@
 Lista de exercícios de java.
 <img align="center" alt="Java-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 --------------
-Dupla résponsavel pelo trabalho: Sara Lima Freitas / Fernanda DavylaLima Borges.
+Dupla résponsavel pelo trabalho:
+ <a href="https://github.com/Sarallima" target="_blank" rel="external">Sara Lima</a>
+ <a href="https://github.com/fernandadavyla" target="_blank" rel="external">Fernanda Davyla</a>
 
 | Questões | Descrição sobre o problema prosposto de cada questão. |
 |---|---|
@@ -17,7 +19,7 @@ Dupla résponsavel pelo trabalho: Sara Lima Freitas / Fernanda DavylaLima Borges
 |09| Um programa que receba vários números,calcule e mostre(1. A soma dos valores digitados; 2. A quantidade de números digitados; 3. A média dos números digitados; 4. O maior número digitado; 5. O menor número digitado; 6. A média dos números pares; 7. A porcentagem dos números ímpares entre os números digitados).|
 |10| Um programa que mostre as tabuadas dos números de 1 a 10.|
 
-<h3>Dificuldades encontrdas durante a resolução da lista de exécicios 
+<h3>Dificuldades encontrdas durante a resolução da lista de execícios 
    <hr>
   <details><summary><b>Questão 07</b></summary>
     <p> A maior dificuldade foi o fato de minimizar a questão, mas após fazer time por time deu certo. Foi necessário diversos testes no programa devido a quantidade de jogadores que a questão solicita.
