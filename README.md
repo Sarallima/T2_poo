@@ -3,7 +3,9 @@ Lista de exercícios de java.
 <img align="center" alt="Java-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 --------------
 Dupla résponsavel pelo trabalho:
+
  <a href="https://github.com/Sarallima" target="_blank" rel="external">Sara Lima</a>
+ 
  <a href="https://github.com/fernandadavyla" target="_blank" rel="external">Fernanda Davyla</a>
 
 | Questões | Descrição sobre o problema prosposto de cada questão. |
